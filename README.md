@@ -51,7 +51,7 @@ Welcome to the Currency Converter Web App! This application allows users to conv
 - **APIs:** [Exchange rate]
 
 ###  link to currency conveverter
-https://github.com/Habeebakhatoon18/Javascript-projects/tree/main/currencyConverter
+https://currencyconverter-habeebakhatoon18s-projects.vercel.app/
 
 ### Usage
 
